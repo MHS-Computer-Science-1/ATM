@@ -1,0 +1,78 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="desktop.ini" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0-windows\.NETCoreApp,Version=v6.0.AssemblyAttributes.vb" />
+    <Compile Include="obj\Debug\net6.0-windows\ATM.AssemblyInfo.vb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\ATM.deps.json" />
+    <Content Include="bin\Debug\net6.0-windows\ATM.runtimeconfig.json" />
+    <Content Include="obj\ATM.vbproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net6.0-windows\ATM.designer.deps.json" />
+    <Content Include="obj\Debug\net6.0-windows\ATM.designer.runtimeconfig.json" />
+    <Content Include="obj\Debug\net6.0-windows\ATM.vbproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0-windows\ATM.dll" />
+    <None Include="bin\Debug\net6.0-windows\ATM.exe" />
+    <None Include="bin\Debug\net6.0-windows\ATM.pdb" />
+    <None Include="obj\ATM.vbproj.nuget.g.props" />
+    <None Include="obj\ATM.vbproj.nuget.g.targets" />
+    <None Include="obj\Debug\net6.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net6.0-windows\ATM.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0-windows\ATM.assets.cache" />
+    <None Include="obj\Debug\net6.0-windows\ATM.dll" />
+    <None Include="obj\Debug\net6.0-windows\ATM.Form1.resources" />
+    <None Include="obj\Debug\net6.0-windows\ATM.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0-windows\ATM.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0-windows\ATM.pdb" />
+    <None Include="obj\Debug\net6.0-windows\ATM.vbproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0-windows\ATM.vbproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0-windows\ATM.vbproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0-windows\ATM.vbproj.GenerateResource.cache" />
+    <None Include="obj\Debug\net6.0-windows\refint\ATM.dll" />
+    <None Include="obj\Debug\net6.0-windows\ref\ATM.dll" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="obj\Debug\net6.0-windows\TempPE\" />
+  </ItemGroup>
+
+</Project>
