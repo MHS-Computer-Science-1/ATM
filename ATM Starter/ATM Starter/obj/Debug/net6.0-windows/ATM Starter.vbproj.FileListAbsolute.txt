@@ -1,0 +1,17 @@
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\bin\Debug\net6.0-windows\ATM Starter.exe
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\bin\Debug\net6.0-windows\ATM Starter.deps.json
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\bin\Debug\net6.0-windows\ATM Starter.runtimeconfig.json
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\bin\Debug\net6.0-windows\ATM Starter.dll
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\bin\Debug\net6.0-windows\ATM Starter.pdb
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM_Starter.Form1.resources
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.dll
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\refint\ATM Starter.dll
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.pdb
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ATM Starter.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\07 Subs\ATM Starter\ATM Starter\obj\Debug\net6.0-windows\ref\ATM Starter.dll
